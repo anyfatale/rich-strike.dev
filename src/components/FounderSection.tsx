@@ -58,7 +58,7 @@ const luxuryItems = [
   {
     icon: Car,
     title: "Kolekcja supercarów",
-    description: "Lamborghini, Ferrari, Porsche - legalnie czy nie, zdobęde je "
+    description: "Lamborghini, Ferrari, Porsche - nie, najlepszy i tak Leon Wiktora ;P "
   },
   {
     icon: Home,
